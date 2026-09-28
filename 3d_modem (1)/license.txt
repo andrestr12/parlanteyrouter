@@ -1,0 +1,11 @@
+Model Information:
+* title:	3D modem
+* source:	https://sketchfab.com/3d-models/3d-modem-448fe75db1894fa3b059dbe1c7c39c39
+* author:	BiG (https://sketchfab.com/BiGZiN)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "3D modem" (https://sketchfab.com/3d-models/3d-modem-448fe75db1894fa3b059dbe1c7c39c39) by BiG (https://sketchfab.com/BiGZiN) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
